@@ -137,7 +137,7 @@
         <version>3.3</version>
         <configuration>
           <encoding>UTF-8</encoding>
-          <source>1.7</source>
+          <source>1.8</source>
           <target>1.7</target>
           <debug>true</debug>
           <optimize>true</optimize>
